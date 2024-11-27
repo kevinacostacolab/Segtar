@@ -1,6 +1,7 @@
 
 def main():
 
+  import functions
   from google.colab import files
   import csv
 
